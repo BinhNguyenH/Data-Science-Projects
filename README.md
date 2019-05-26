@@ -7,3 +7,4 @@ https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Pr
 
 
 ### Advanced Visualization
+https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Projects/blob/master/Advanced_Visualization.ipynb
